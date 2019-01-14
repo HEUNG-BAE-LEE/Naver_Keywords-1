@@ -7,6 +7,7 @@ import pandas as pd
 import pickle
 import requests, json, sys, os
 
+
 def find_variable(alpha):
 
     # 기사 데이터 프레임 로드
